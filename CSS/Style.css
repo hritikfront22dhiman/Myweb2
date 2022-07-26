@@ -1,0 +1,40 @@
+body{
+    background-color: #EAF6F6;
+}
+h1,h3{
+    color: #66BFBF;
+    text-decoration: underline;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+hr{
+    background-color: white;
+    height: 2px;
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 5px;
+
+}
+a:hover{
+    color: red;
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 15px;
+    text-decoration: none;
+
+}
+.navbar ul{
+   
+    width: 50%;
+    background-color: #ceecec;
+    border-radius: 18px;
+    
+}
+.e{
+   margin: 10px;
+}
+.navbar ul li a{
+    text-decoration: none;
+}
